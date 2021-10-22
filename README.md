@@ -5,3 +5,5 @@ In this repository all programming related to the traineeship TDP software test 
 
 Hierin staan 2 folders. Python cursus thraineeship, waarin we bezig zijn geweest met de python cursus.
 en behave, waarin we bezig geweest zijn met behave en wat kleine andere dingen.
+
+en hier gaan we wat aanpassen als test
