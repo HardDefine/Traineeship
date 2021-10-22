@@ -1,0 +1,4 @@
+one	monkey	monday
+two	cow	tuesday
+three	moose	wednesday
+four	dodo	thursday
